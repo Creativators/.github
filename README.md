@@ -63,6 +63,7 @@ We are always excited to collaborate with others. Whether you are a developer, d
 
 ## License
 
+
 All projects created by **Team Creativators** are open-source and distributed under the [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
 
 ---
